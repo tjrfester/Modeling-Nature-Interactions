@@ -27,3 +27,6 @@ Below I will show you a few examples, where elements modify each others shape. W
 ![PlantCells2](https://github.com/user-attachments/assets/84e26bd5-1de8-4595-b201-2f0b1ef2bf19)
 ![PlantCells3](https://github.com/user-attachments/assets/710eebe9-32ce-4f67-a467-a1f1d78c477f)
 ![PlantCells4](https://github.com/user-attachments/assets/a9e7b4e2-b1b4-4ad1-9c3a-d9013b875687)
+Cellular automata basically are elements where interactions modify the texture of other elements. I did not go very far in this field, but it is important, so I wanted to include it. Here is only a very simple example how to program such interactions. The two following pictures are frames from such interactions. Let the first frame be a random distribution of 1 (orange colour) and 0 (blue colour). In the subsequent frame I have applied the rule that 1 is only kept for fields surrounded by at least 3 orange elements. 
+![Frame1](https://github.com/user-attachments/assets/f991ab8d-8022-46bf-aeab-13ac31b7c59c)
+![Frame2](https://github.com/user-attachments/assets/65613f6c-f2b2-4144-9778-53fc6604f799)
