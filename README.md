@@ -4,3 +4,4 @@ I will look at three different kinds of interactions: (1) Interactions modifying
 Let's start with a simple example for (1). Cases where only elements inside a given larger element are displayed. This kind of interactions can be easily modeled in Pov-Ray using the inside-funktion - here are a few examples. 
 ![A2](https://github.com/user-attachments/assets/cbbb15b7-a931-4d5c-a0bc-db1e5ae35a44)
 ![IT3](https://github.com/user-attachments/assets/2c453f63-9948-463e-8db2-00c66f48a3ba)
+![InsideLove](https://github.com/user-attachments/assets/77787743-1f1c-4d1c-b21b-cabdf455f2e4)
