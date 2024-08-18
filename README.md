@@ -15,3 +15,6 @@ There are also cases where one element determines location (and eventually orien
 By modifying the shape of individual elements different kinds of worms are possible:
 ![ThickWorm](https://github.com/user-attachments/assets/297642ce-ad82-44dd-9080-e9ea513ddafe)
 ![FlatWorm](https://github.com/user-attachments/assets/77f6fd98-8a23-42ad-8337-521fbd3951b4)
+But also Anabaena filaments can be modeled by adding stepwise elements to the growing chain
+![Anabaena1](https://github.com/user-attachments/assets/c3f50c76-5e69-4fc4-bb11-19e8d2612477)
+![Anabaena2](https://github.com/user-attachments/assets/9475954e-e185-4a60-8c19-b2b3b310f07b)
