@@ -18,3 +18,12 @@ By modifying the shape of individual elements different kinds of worms are possi
 But also Anabaena filaments can be modeled by adding stepwise elements to the growing chain
 ![Anabaena1](https://github.com/user-attachments/assets/c3f50c76-5e69-4fc4-bb11-19e8d2612477)
 ![Anabaena2](https://github.com/user-attachments/assets/9475954e-e185-4a60-8c19-b2b3b310f07b)
+Below I will show you a few examples, where elements modify each others shape. We start with soap bubbles (simple models for cells) and end with plant cells. 
+![SoapBubble1](https://github.com/user-attachments/assets/a939973a-262a-4da4-b15b-eba4bd157a5a)
+![SoapBubble2](https://github.com/user-attachments/assets/f9b2d970-b4a1-4a05-9ff3-07357ccaf96d)
+![SoapBubble3](https://github.com/user-attachments/assets/760ef828-dc3e-42e5-8d9d-9179a7ac4cfa)
+![Honeycomb](https://github.com/user-attachments/assets/9b1a8a34-99b4-4792-9523-5d00ff367b41)
+![PlantCells1](https://github.com/user-attachments/assets/97ec9527-5051-4a40-9261-6c38e940286e)
+![PlantCells2](https://github.com/user-attachments/assets/84e26bd5-1de8-4595-b201-2f0b1ef2bf19)
+![PlantCells3](https://github.com/user-attachments/assets/710eebe9-32ce-4f67-a467-a1f1d78c477f)
+![PlantCells4](https://github.com/user-attachments/assets/a9e7b4e2-b1b4-4ad1-9c3a-d9013b875687)
