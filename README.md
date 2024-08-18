@@ -9,4 +9,9 @@ Using the inside function it is also possible to place objects on the surface of
 The next form of interactions refers to the orientation of a given object. In the next examples I will show how to orientate the objects according to the normal of the surface of the large object. (In this example the large object is a virus and the small particles are viral proteins. 
 ![enveloped2](https://github.com/user-attachments/assets/2be94293-052d-4013-b340-ab3a62c6dc58)
 ![Influenza3](https://github.com/user-attachments/assets/17f2f7c7-098b-4a9c-8f86-b1e2bbd57e11)
-
+There are also cases where one element determines location (and eventually orientation of a subsequent element. Worms can be modeled this way (for example). 
+![Wormstart](https://github.com/user-attachments/assets/384930ae-e159-4b37-85d3-bd4f9ac55e88)
+![SimpleWorm](https://github.com/user-attachments/assets/5787c69f-546c-4e59-bfc0-06bef65cf6a4)
+By modifying the shape of individual elements different kinds of worms are possible:
+![ThickWorm](https://github.com/user-attachments/assets/297642ce-ad82-44dd-9080-e9ea513ddafe)
+![FlatWorm](https://github.com/user-attachments/assets/77f6fd98-8a23-42ad-8337-521fbd3951b4)
